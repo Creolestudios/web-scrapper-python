@@ -9,6 +9,10 @@ This is simple python script (using python3) which scrapes and gets data from pd
 ## Installation
 
 ```bash
+$ add openAI api key in file  
+```
+
+```bash
 $ pip install 
 ```
 
