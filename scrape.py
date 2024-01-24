@@ -9,6 +9,7 @@ import json
 import os
 
 
+# add you openai key 
 client = OpenAI(api_key='')
 
 
